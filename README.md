@@ -1,1 +1,1 @@
-<img src"C:\Users\jawairia\OneDrive\Pictures\Screenshots\Screenshot.png">
+<img src"\Screenshots\Screenshot.png">
